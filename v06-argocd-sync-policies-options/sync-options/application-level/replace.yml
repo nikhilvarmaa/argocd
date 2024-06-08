@@ -3,4 +3,4 @@ kind: Application
 spec:
   syncPolicy:
     syncOptions:
-    - Replace=true
+    - Replace=true # both application level and resource level
