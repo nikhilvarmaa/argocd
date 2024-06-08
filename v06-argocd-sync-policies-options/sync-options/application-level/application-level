@@ -3,4 +3,4 @@ kind: Application
 spec:
   syncPolicy:
     syncOptions:
-    - ApplyOutOfSyncOnly=true
+    - ApplyOutOfSyncOnly=true #only application level
